@@ -1,0 +1,9 @@
+pandas
+streamlit
+numpy
+streamlit_card
+yfinance
+altair
+markdownlit
+transformers
+torch
